@@ -1,0 +1,122 @@
+INFO:root:ETL on ['NY', 'NE', 'CAL'] for period: 24
+INFO:root:ETL on ['NY', 'NE', 'CAL'] for period: 24
+INFO:root:ETL on ['NY', 'NE', 'CAL'] for period: 24
+INFO:root:ETL on ['NY', 'NE', 'CAL'] for period: 24
+INFO:root:ETL on ['NY', 'NE', 'CAL'] for period: 24
+INFO:root:ETL on ['NY', 'NE', 'CAL'] for period: 24
+INFO:root:ETL on ['NY', 'NE', 'CAL'] for period: 24
+INFO:root:ETL on ['NY', 'NE', 'CAL'] for period: 24
+INFO:root:ETL on ['NY', 'NE', 'CAL'] for period: 24
+INFO:root:ETL on ['NY', 'NE', 'CAL'] for period: 24
+INFO:root:ETL on ['NY', 'NE', 'CAL'] for period: 24
+INFO:root:ETL on ['NY', 'NE', 'CAL'] for period: 24
+INFO:root:ETL on ['NY', 'NE', 'CAL'] for period: 24
+INFO:root:ETL on ['NY', 'NE', 'CAL'] for period: 24
+INFO:root:ETL on ['NY', 'NE', 'CAL'] for period: 24
+INFO:root:ETL on ['NY', 'NE', 'CAL'] for period: 24
+INFO:root:ETL on ['NY', 'NE', 'CAL'] for period: 24
+INFO:root:ETL on ['NY', 'NE', 'CAL'] for period: 24
+INFO:root:ETL on ['NY', 'NE', 'CAL'] for period: 24
+INFO:root:ETL on ['NY', 'NE', 'CAL'] for period: 24
+INFO:root:ETL on ['NY', 'NE', 'CAL'] for period: 24
+2023-01-09 19:00:45 INFO     ETL on ['NY', 'NE', 'CAL'] for period: 24
+2023-01-09 19:00:51 INFO     ETL on ['NY', 'NE', 'CAL'] for period: 24
+2023-01-09 19:00:52 INFO     ETL on ['NY', 'NE', 'CAL'] for period: 24
+2023-01-09 19:01:58 INFO     Fetching ['NY', 'NE', 'CAL'] for the period: 2023-01-01 - 2023-02-01
+2023-01-09 19:01:59 INFO     Fetching ['NY', 'NE', 'CAL'] for the period: 2023-01-01 - 2023-02-01
+2023-01-09 19:02:00 INFO     Fetching ['NY', 'NE', 'CAL'] for the period: 2023-01-01 - 2023-02-01
+2023-01-09 19:02:01 INFO     Fetching ['NY', 'NE', 'CAL'] for the period: 2022-12-01 - 2023-01-01
+2023-01-09 19:02:01 INFO     Fetching ['NY', 'NE', 'CAL'] for the period: 2022-12-01 - 2023-01-01
+2023-01-09 19:02:03 INFO     Fetching ['NY', 'NE', 'CAL'] for the period: 2022-12-01 - 2023-01-01
+2023-01-09 19:02:04 INFO     Fetching ['NY', 'NE', 'CAL'] for the period: 2022-11-01 - 2022-12-01
+2023-01-09 19:02:05 INFO     Fetching ['NY', 'NE', 'CAL'] for the period: 2022-11-01 - 2022-12-01
+2023-01-09 19:02:05 INFO     Fetching ['NY', 'NE', 'CAL'] for the period: 2022-11-01 - 2022-12-01
+2023-01-09 19:02:06 INFO     Fetching ['NY', 'NE', 'CAL'] for the period: 2022-10-01 - 2022-11-01
+2023-01-09 19:02:07 INFO     Fetching ['NY', 'NE', 'CAL'] for the period: 2022-10-01 - 2022-11-01
+2023-01-09 19:02:08 INFO     Fetching ['NY', 'NE', 'CAL'] for the period: 2022-10-01 - 2022-11-01
+2023-01-09 19:02:09 INFO     Fetching ['NY', 'NE', 'CAL'] for the period: 2022-09-01 - 2022-10-01
+2023-01-09 19:02:10 INFO     Fetching ['NY', 'NE', 'CAL'] for the period: 2022-09-01 - 2022-10-01
+2023-01-09 19:02:10 INFO     Fetching ['NY', 'NE', 'CAL'] for the period: 2022-09-01 - 2022-10-01
+2023-01-09 19:02:11 INFO     Fetching ['NY', 'NE', 'CAL'] for the period: 2022-08-01 - 2022-09-01
+2023-01-09 19:02:12 INFO     Fetching ['NY', 'NE', 'CAL'] for the period: 2022-08-01 - 2022-09-01
+2023-01-09 19:02:13 INFO     Fetching ['NY', 'NE', 'CAL'] for the period: 2022-08-01 - 2022-09-01
+2023-01-09 19:02:14 INFO     Fetching ['NY', 'NE', 'CAL'] for the period: 2022-07-01 - 2022-08-01
+2023-01-09 19:02:15 INFO     Fetching ['NY', 'NE', 'CAL'] for the period: 2022-07-01 - 2022-08-01
+2023-01-09 19:02:16 INFO     Fetching ['NY', 'NE', 'CAL'] for the period: 2022-07-01 - 2022-08-01
+2023-01-09 19:02:17 INFO     Fetching ['NY', 'NE', 'CAL'] for the period: 2022-06-01 - 2022-07-01
+2023-01-09 19:02:17 INFO     Fetching ['NY', 'NE', 'CAL'] for the period: 2022-06-01 - 2022-07-01
+2023-01-09 19:02:18 INFO     Fetching ['NY', 'NE', 'CAL'] for the period: 2022-06-01 - 2022-07-01
+2023-01-09 19:02:19 INFO     Fetching ['NY', 'NE', 'CAL'] for the period: 2022-05-01 - 2022-06-01
+2023-01-09 19:02:20 INFO     Fetching ['NY', 'NE', 'CAL'] for the period: 2022-05-01 - 2022-06-01
+2023-01-09 19:02:23 INFO     Fetching NY for the period: 2023-01-01 - 2023-02-01
+2023-01-09 19:02:24 INFO     Fetching NE for the period: 2023-01-01 - 2023-02-01
+2023-01-09 19:02:25 INFO     Fetching CAL for the period: 2023-01-01 - 2023-02-01
+2023-01-09 19:02:25 INFO     Fetching NY for the period: 2022-12-01 - 2023-01-01
+2023-01-09 19:02:26 INFO     Fetching NE for the period: 2022-12-01 - 2023-01-01
+2023-01-09 19:02:27 INFO     Fetching CAL for the period: 2022-12-01 - 2023-01-01
+2023-01-09 19:02:28 INFO     Fetching NY for the period: 2022-11-01 - 2022-12-01
+2023-01-09 19:02:29 INFO     Fetching NE for the period: 2022-11-01 - 2022-12-01
+2023-01-09 19:02:29 INFO     Fetching CAL for the period: 2022-11-01 - 2022-12-01
+2023-01-09 19:02:30 INFO     Fetching NY for the period: 2022-10-01 - 2022-11-01
+2023-01-09 19:02:31 INFO     Fetching NE for the period: 2022-10-01 - 2022-11-01
+2023-01-09 19:02:32 INFO     Fetching CAL for the period: 2022-10-01 - 2022-11-01
+2023-01-09 19:02:33 INFO     Fetching NY for the period: 2022-09-01 - 2022-10-01
+2023-01-09 19:02:33 INFO     Fetching NE for the period: 2022-09-01 - 2022-10-01
+2023-01-09 19:02:34 INFO     Fetching CAL for the period: 2022-09-01 - 2022-10-01
+2023-01-09 19:02:35 INFO     Fetching NY for the period: 2022-08-01 - 2022-09-01
+2023-01-09 19:02:36 INFO     Fetching NE for the period: 2022-08-01 - 2022-09-01
+2023-01-09 19:02:37 INFO     Fetching CAL for the period: 2022-08-01 - 2022-09-01
+2023-01-09 19:02:37 INFO     Fetching NY for the period: 2022-07-01 - 2022-08-01
+2023-01-09 19:02:38 INFO     Fetching NE for the period: 2022-07-01 - 2022-08-01
+2023-01-09 19:02:39 INFO     Fetching CAL for the period: 2022-07-01 - 2022-08-01
+2023-01-09 19:02:40 INFO     Fetching NY for the period: 2022-06-01 - 2022-07-01
+2023-01-09 19:02:41 INFO     Fetching NE for the period: 2022-06-01 - 2022-07-01
+2023-01-09 19:02:42 INFO     Fetching CAL for the period: 2022-06-01 - 2022-07-01
+2023-01-09 19:02:42 INFO     Fetching NY for the period: 2022-05-01 - 2022-06-01
+2023-01-09 19:02:43 INFO     Fetching NE for the period: 2022-05-01 - 2022-06-01
+2023-01-09 19:02:44 INFO     Fetching CAL for the period: 2022-05-01 - 2022-06-01
+2023-01-09 19:02:45 INFO     Fetching NY for the period: 2022-04-01 - 2022-05-01
+2023-01-09 19:02:46 INFO     Fetching NE for the period: 2022-04-01 - 2022-05-01
+2023-01-09 19:02:47 INFO     Fetching CAL for the period: 2022-04-01 - 2022-05-01
+2023-01-09 19:02:48 INFO     Fetching NY for the period: 2022-03-01 - 2022-04-01
+2023-01-09 19:02:48 INFO     Fetching NE for the period: 2022-03-01 - 2022-04-01
+2023-01-09 19:02:49 INFO     Fetching CAL for the period: 2022-03-01 - 2022-04-01
+2023-01-09 19:02:50 INFO     Fetching NY for the period: 2022-02-01 - 2022-03-01
+2023-01-09 19:02:50 INFO     Fetching NE for the period: 2022-02-01 - 2022-03-01
+2023-01-09 19:02:51 INFO     Fetching CAL for the period: 2022-02-01 - 2022-03-01
+2023-01-09 19:02:52 INFO     Fetching NY for the period: 2022-01-01 - 2022-02-01
+2023-01-09 19:02:53 INFO     Fetching NE for the period: 2022-01-01 - 2022-02-01
+2023-01-09 19:02:54 INFO     Fetching CAL for the period: 2022-01-01 - 2022-02-01
+2023-01-09 19:02:55 INFO     Fetching NY for the period: 2021-12-01 - 2022-01-01
+2023-01-09 19:02:55 INFO     Fetching NE for the period: 2021-12-01 - 2022-01-01
+2023-01-09 19:02:56 INFO     Fetching CAL for the period: 2021-12-01 - 2022-01-01
+2023-01-09 19:02:57 INFO     Fetching NY for the period: 2021-11-01 - 2021-12-01
+2023-01-09 19:02:58 INFO     Fetching NE for the period: 2021-11-01 - 2021-12-01
+2023-01-09 19:02:58 INFO     Fetching CAL for the period: 2021-11-01 - 2021-12-01
+2023-01-09 19:02:59 INFO     Fetching NY for the period: 2021-10-01 - 2021-11-01
+2023-01-09 19:03:00 INFO     Fetching NE for the period: 2021-10-01 - 2021-11-01
+2023-01-09 19:03:01 INFO     Fetching CAL for the period: 2021-10-01 - 2021-11-01
+2023-01-09 19:03:01 INFO     Fetching NY for the period: 2021-09-01 - 2021-10-01
+2023-01-09 19:03:02 INFO     Fetching NE for the period: 2021-09-01 - 2021-10-01
+2023-01-09 19:03:03 INFO     Fetching CAL for the period: 2021-09-01 - 2021-10-01
+2023-01-09 19:03:04 INFO     Fetching NY for the period: 2021-08-01 - 2021-09-01
+2023-01-09 19:03:05 INFO     Fetching NE for the period: 2021-08-01 - 2021-09-01
+2023-01-09 19:03:06 INFO     Fetching CAL for the period: 2021-08-01 - 2021-09-01
+2023-01-09 19:03:07 INFO     Fetching NY for the period: 2021-07-01 - 2021-08-01
+2023-01-09 19:03:07 INFO     Fetching NE for the period: 2021-07-01 - 2021-08-01
+2023-01-09 19:03:08 INFO     Fetching CAL for the period: 2021-07-01 - 2021-08-01
+2023-01-09 19:03:09 INFO     Fetching NY for the period: 2021-06-01 - 2021-07-01
+2023-01-09 19:03:11 INFO     Fetching NE for the period: 2021-06-01 - 2021-07-01
+2023-01-09 19:03:12 INFO     Fetching CAL for the period: 2021-06-01 - 2021-07-01
+2023-01-09 19:03:13 INFO     Fetching NY for the period: 2021-05-01 - 2021-06-01
+2023-01-09 19:03:13 INFO     Fetching NE for the period: 2021-05-01 - 2021-06-01
+2023-01-09 19:03:14 INFO     Fetching CAL for the period: 2021-05-01 - 2021-06-01
+2023-01-09 19:03:15 INFO     Fetching NY for the period: 2021-04-01 - 2021-05-01
+2023-01-09 19:03:16 INFO     Fetching NE for the period: 2021-04-01 - 2021-05-01
+2023-01-09 19:03:17 INFO     Fetching CAL for the period: 2021-04-01 - 2021-05-01
+2023-01-09 19:03:18 INFO     Fetching NY for the period: 2021-03-01 - 2021-04-01
+2023-01-09 19:03:19 INFO     Fetching NE for the period: 2021-03-01 - 2021-04-01
+2023-01-09 19:03:19 INFO     Fetching CAL for the period: 2021-03-01 - 2021-04-01
+2023-01-09 19:03:20 INFO     Fetching NY for the period: 2021-02-01 - 2021-03-01
+2023-01-09 19:03:21 INFO     Fetching NE for the period: 2021-02-01 - 2021-03-01
+2023-01-09 19:03:22 INFO     Fetching CAL for the period: 2021-02-01 - 2021-03-01

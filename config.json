@@ -1,0 +1,10 @@
+{
+	"EIA": {
+		"API_KEY": "HXTr5DobxX3POID4jhL3PaBBcKZHiQlKs0EBrXbH",
+		"URL": "https://api.eia.gov/v2/electricity/rto/region-data/data/"
+	},
+	"PSQL": {
+		"URL": "postgresql+psycopg2://daniellee@127.0.0.1/",
+		"DBNAME": "eiademand"
+	}
+}
